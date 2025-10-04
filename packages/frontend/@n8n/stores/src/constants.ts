@@ -32,4 +32,9 @@ export const STORES = {
 	MODULES: 'modules',
 	FOCUS_PANEL: 'focusPanel',
 	AI_TEMPLATES_STARTER_COLLECTION: 'aiTemplatesStarterCollection',
+	PERSONALIZED_TEMPLATES: 'personalizedTemplates',
+	EXPERIMENT_READY_TO_RUN_WORKFLOWS: 'readyToRunWorkflows',
+	EXPERIMENT_READY_TO_RUN_WORKFLOWS_V2: 'readyToRunWorkflowsV2',
+	EXPERIMENT_TEMPLATE_RECO_V2: 'templateRecoV2',
+	PERSONALIZED_TEMPLATES_V3: 'personalizedTemplatesV3',
 } as const;
